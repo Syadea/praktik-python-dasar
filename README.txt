@@ -1,4 +1,4 @@
-PRAKTIK PYTHON DASAR - SESUAI MATERI PDF
+PRAKTIK PYTHON DASAR 
 
 Persiapan:
 1. Instal Python 3 dan VS Code.
